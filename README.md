@@ -2,8 +2,10 @@
 ### <div align="right">Status: em Produção 🟢 </div>
  
 <p align="center">
-  <img alt="Podcastr" src=".github/Homepage.png" width="100%">
+  <img alt="moradasPeGrande" src=".github/Homepage.png" width="100%">
 </p>
+
+Para visualizar o site, [acesse aqui!](https://www.moradasdopegrande.com.br)
 
 <br>
 
@@ -39,8 +41,5 @@ O site Moradas do Pé Grande foi desenvolvido para apresentar as opções de hos
 #
 
 
-## 🔖 Layout
-
-Para visualizar o site, [acesse aqui!](https://www.moradasdopegrande.com.br)
 
 
