@@ -1,0 +1,117 @@
+/* .containerYoutube {
+  margin-top: 3rem;
+  background-color: #090a46;
+  padding-top: 1rem;
+
+}
+.youtube {
+  display: block;
+
+}
+p {
+  color: white;
+  font-family: Lobster;
+  font-size: 2rem;
+  padding-bottom: 2rem;
+  padding-top: 2rem;
+}
+
+
+.video-container {
+  overflow: hidden;
+  position: relative;
+  width: 50%;
+}
+
+.video-container::after {
+  padding-top: 56.25%;
+  display: block;
+  content: '';
+}
+
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 50%;
+  height: 50%;
+} */
+
+
+
+.quadro-youtube {
+  background-color: #090a46;
+  height: auto;
+}
+
+.section-youtube{
+  padding-top: 0.7em;
+  width: 100%;
+  text-align: center;
+}
+
+.align-youtube {
+  display: flex;
+  justify-content: center;
+}
+
+.youtubeScreen {
+  width: 50em;
+  height: 30em;
+  display: flex;
+  justify-content: center;
+}
+
+.moradas-youtube-home {
+  padding-top: 1.6em;
+  padding-bottom: 1.4rem;
+  font-family: 'Lobster', cursive;
+  font-size: 2em;
+  text-align: center;
+  color: white;
+}
+
+.msg-after-youtube {
+  font-family: 'Lobster', cursive;
+  padding-top: 0.8em;
+  color: white;
+  text-align: center;
+  align-items: center;
+  font-size: 1.85em;
+  padding-bottom: 2rem;
+}
+
+.ferias-youtube {
+    font-family: 'Shadows Into Light', cursive;
+    font-weight: 900;
+    font-size: 30px;
+}
+
+.videoResponsive iframe{
+  width: 853px;
+  height: 480px;
+}
+
+@media(max-width: 920px) {
+  .videoResponsive iframe {
+  width: 450px;
+  height: 450px;
+  
+  }
+}
+
+@media(max-width: 545px) {
+  .moradas-youtube-home {
+    font-size: 1.5em;
+  }
+  
+  .videoResponsive iframe {
+  width: 300px;
+  height: 300px;
+  }
+
+  .msg-after-youtube {
+    font-size: 1.5em;
+   
+  }
+}

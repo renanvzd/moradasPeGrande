@@ -1,0 +1,189 @@
+.sectionMoradas {
+  top: 5rem;
+  height: 100%;
+  margin-bottom: 10rem;
+  margin-left: 4.8rem;
+  margin-right: 4.5rem;
+  position: relative;
+}
+
+.titleTop {
+  font-family: Lobster;
+  text-align: center;
+  font-size: 3rem;
+  padding-bottom: 3rem;
+}
+
+.firstSectionTop {
+  margin-left: 5px;
+  margin-right: 0;
+  padding-bottom: 1rem;
+  font-family: 'Lora', serif;
+  font-size: 1.5rem;
+  text-align: justify;
+  font-weight: 500;
+}
+
+.secondSectionTop {
+  margin-left: 5px;
+  margin-right: 0;
+  padding-top: 0.5rem;
+  padding-bottom: 2rem;
+  font-family: 'Lora', serif;
+  font-size: 1.30rem;
+  text-align: justify;
+  font-weight: bolder;
+}
+.thirdSectionTop {
+  margin-left: 5px;
+  margin-right: 0;
+  padding-top: 1.5rem;
+  font-family: 'Lora', serif;
+  font-size: 1.30rem;
+  text-align: center;
+  font-weight: bolder;
+}
+
+.fourthSectionTop {
+  color: red;
+  margin-left: 5px;
+  margin-right: 0;
+  padding-top: 2rem;
+  padding-bottom: 3.5rem;
+  font-family: 'Lora', serif;
+  font-size: 1.30rem;
+  text-align: center;
+  font-weight: bolder;
+}
+
+.sectionInfos {
+  padding-bottom: 3.5rem;
+  height: 100%;
+  width: 100%;
+  background-color: #72d1f144;
+  text-align: center;
+}
+
+.containerMoradasPage {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+.moradasInfo {
+  padding-top: 2rem;
+  padding-bottom: 0rem;
+  margin-left: 0.8em;
+  font-family: 'Lobster', cursive;
+  font-size: 2.5rem;
+  text-align: left;
+}
+
+.moradasText {
+  margin-left: 1em;
+  padding-right: 2em;
+  padding-bottom: 1.1rem;
+  margin-right: 0;
+  padding-top: 2.5rem;
+  font-family: 'Lora', serif;
+  font-size: 1.65rem;
+  text-align: left;
+  font-weight: bolder;
+}
+
+.moradasTextTwo {
+  margin-left: 1.8rem;
+  margin-right: 1.9rem;
+  padding-bottom: 0rem;
+  padding-top: 1rem;
+  font-family: 'Lora', serif;
+  font-size: 1.31rem;
+  text-align: justify;
+}
+
+.moradasTextTwoObs {
+  margin-left: 1.8rem;
+  margin-right: 1.9rem;
+  padding-bottom: 0.5rem;
+  padding-top: 0.3rem;
+  font-family: 'Lora', serif;
+  font-size: 1.15em;
+  text-align: left;
+  font-weight: bold;
+}
+
+.sectionPrices {
+  padding-bottom: 3.5em;
+  height: 100%;
+  width: 100%;
+  background-color: #72d1f17c;
+  text-align: center;
+}
+
+@media(max-width: 500px) {
+
+.sectionMoradas {
+  top: 5rem;
+  margin-bottom: 8rem;
+  margin-left: 1.8rem;
+  margin-right: 1.8rem;
+  
+}
+
+.titleTop {
+  font-size: 2rem;
+  padding-bottom: 1.5rem;
+}
+
+.firstSectionTop {
+  font-size: 1rem;
+}
+
+.secondSectionTop {
+  padding-top: 0.5rem;
+  padding-bottom: 2rem;
+  font-family: 'Lora', serif;
+  font-size: 0.9rem;
+}
+
+.thirdSectionTop {
+  padding-top: 1rem;
+  font-size: 1rem;
+  text-align: center;
+
+}
+
+.fourthSectionTop {
+ 
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+ 
+  font-size: 0.9rem;
+ ;
+}
+
+.moradasInfo {
+  padding-top: 2rem;
+  font-size: 2rem;
+  
+}
+
+.moradasText {
+  margin-right: 0;
+  padding-top: 2rem;
+  font-size: 1.3rem;
+}
+
+.moradasTextTwo {
+  margin-left: 1.3rem;
+  padding-top: 0.75rem;
+  font-size: 1.05rem;
+}
+
+.moradasTextTwoObs {
+  padding-top: 0.45rem;
+  font-size: 0.9em;
+  text-align: justify;
+}
+
+}
